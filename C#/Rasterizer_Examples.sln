@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rasterizer_Examples", "Rasterizer_Examples\Rasterizer_Examples.csproj", "{57AE2E76-F66D-46A3-ABA1-0517C6FFF1ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AE2E76-F66D-46A3-ABA1-0517C6FFF1ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AE2E76-F66D-46A3-ABA1-0517C6FFF1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AE2E76-F66D-46A3-ABA1-0517C6FFF1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AE2E76-F66D-46A3-ABA1-0517C6FFF1ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B8733C-40A8-4907-B624-6CBF84546282}
+	EndGlobalSection
+EndGlobal
