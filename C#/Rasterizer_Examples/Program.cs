@@ -12,6 +12,11 @@ namespace Rasterizer_Examples
         {
             try
             {
+                if (!System.IO.Directory.Exists(@"..\..\..\Output\"))
+                {
+                    System.IO.Directory.CreateDirectory(@"..\..\..\Output\");
+                }
+
                 Console.WriteLine("Converting PDF to JPG ...");
                 Examples.ConvertPDFToJPEG.Example();
                 Console.WriteLine("");
